@@ -93,11 +93,8 @@ a.pure-button-primary {
 .home-menu {
     padding: 0.5em;
     text-align: center;
-    box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
 }
 .home-menu {
-    background: #ffe4e1;
-    opacity: 0.9;
 }
 .pure-menu.pure-menu-fixed {
     /* Fixed menus normally have a border at the bottom. */
@@ -107,8 +104,7 @@ a.pure-button-primary {
 }
 
 .home-menu .pure-menu-heading {
-	font-family: 'Baloo', cursive;
-    color: black;
+    color: white;
     font-weight: 400;
     font-size: 120%;
 }
@@ -118,8 +114,7 @@ a.pure-button-primary {
 }
 
 .home-menu a {
-    color: #000000;
-    font-family: 'Nunito Sans', sans-serif;
+    color: #6FBEF3;
 }
 .home-menu li a:hover,
 .home-menu li a:focus {
@@ -135,15 +130,14 @@ a.pure-button-primary {
  */
 
 .splash-container {
-	background-color: #9932CC;
-    background-image: url("hands.png");
-    background-repeat: no-repeat;
+    background: #a65ba6;
+    background-image: url('/images/hands.png');
     background-position: center;
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
     width: 100%;
-    height: 100%;
+    height: 88%;
     top: 0;
     left: 0;
     position: fixed !important;
@@ -152,7 +146,7 @@ a.pure-button-primary {
 .splash {
     /* absolute center .splash within .splash-container */
     width: 80%;
-    height: 25%;
+    height: 50%;
     margin: auto;
     position: absolute;
     top: 100px; left: 0; bottom: 0; right: 0;
@@ -186,12 +180,17 @@ a.pure-button-primary {
 .content-wrapper {
     /* These styles are required for the "scroll-over" effect */
     position: absolute;
-    top: 100%;
+    top: 87%;
     width: 100%;
     min-height: 12%;
     z-index: 2;
     background: white;
 
+}
+
+div #about{
+    padding-right: 15%;
+    padding-left: 15%;
 }
 
 /* We want to give the content area some more padding */
@@ -289,12 +288,5 @@ a.pure-button-primary {
     .splash-head {
         font-size: 300%;
     }
-}
-
-/*Start our own css here*/
-#aboutUs-1{
-	text-align: center;
-	padding-right: 20%;
-	padding-left: 20%;
 }
 
