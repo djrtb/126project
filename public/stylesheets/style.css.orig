@@ -291,6 +291,38 @@ a.pure-button-primary {
     }
 }
 
+<<<<<<< HEAD
+/*Start our own css here*/
+#aboutUs-1{
+	text-align: center;
+	padding-right: 20%;
+	padding-left: 20%;
+}
+
+.full-side{
+    margin: 0;
+    padding: 0;
+}
+
+#porn-1{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    top: -30%;
+    background-color: #dd99ff;
+    width: 100%;
+    
+}
+
+    .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+        display: block;
+        height: 100vh;
+        min-width: 100%;
+        width: 100%;
+        max-width: 100%;
+        line-height: 1;
+    }
+=======
 .pure-img-responsive {
     max-width: 100%;
     height: auto;
@@ -535,33 +567,4 @@ Hides the menu at `48em`, but modify this based on your app's needs.
         left: 150px;
     }
 }
-/*Start our own css here*/
-#aboutUs-1{
-	text-align: center;
-	padding-right: 20%;
-	padding-left: 20%;
-}
-
-.full-side{
-    margin: 0;
-    padding: 0;
-}
-
-#porn-1{
-    text-align: center;
-    padding-left: 20%;
-    padding-right: 20%;
-    top: -30%;
-    background-color: #dd99ff;
-    width: 100%;
-    
-}
-
-    .carousel-inner > .item > img, .carousel-inner > .item > a > img {
-        display: block;
-        height: 100vh;
-        min-width: 100%;
-        width: 100%;
-        max-width: 100%;
-        line-height: 1;
-    }
+>>>>>>> origin

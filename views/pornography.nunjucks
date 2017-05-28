@@ -1,0 +1,57 @@
+{% extends "side-menu.nunjucks"%}
+{% block content%}
+
+<div id="layout">
+    <!-- Menu toggle -->
+    <a href="#menu" id="menuLink" class="menu-link">
+        <!-- Hamburger icon -->
+        <span></span>
+    </a>
+
+
+    <div id="main">
+        <div class="header">
+            <h1>Pornography</h1>
+            <h2>Why it is degrading women and why people are against it</h2>
+        </div>
+
+        <div class="content">
+            <h2 class="content-subhead">Why are they against pornography?</h2>
+              <p>Pornography has long been painted as a “victimless crime”. Like alcohol consumption, its abuse was seen as the fault of the one who abused it. Anyone who fought against it was seen as just taking away someone’s right to do something they wanted to do. This is the narrative that got “stuck in the craw” of so many across this nation, but in truth, it’s so much more than that.</p>
+
+              <p>Pornography is the driving force behind sex trafficking (and therefore, the whole sex trafficking industry), abortion (and therefore the abortion industry), spousal and child abuse, drug abuse, self-hatred and depression to the point of suicide and/or homicide, the list goes on and on. The forced prostitution, forced abortions, and drug use that accompanies the porn industry should be enough on its own to show that this is far from a “victimless crime”.</p>
+
+              <p>Demographically, however, there are very few groups of people who are even willing to acknowledge it as a problem. The institutional church doesn’t want to offend its congregations to this level. Nor do they want to preach what would be deemed as R-rated sermons with children in attendance. Politicians fear ridicule on the level of the “Bill and Monica” scandal, as do many individuals who are offended by it. Too many ladies, Christian and non-Christian, are just too resentful of the people portrayed in these photos to consider their plight. And of course, most men are so enamored by it that they don’t stop to consider the person behind those “big blue eyes”. So what’s to be done? Who is left to do anything at all?</p>
+            <div class="pure-g">
+                <div class="pure-u-1-1">
+                    <img class="pure-img-responsive" src="images/pornography3.jpg" alt="Pornography">
+                </div>
+            </div>
+            <h2 class="content-subhead">Why is there pornography in the Philippines</h2>
+            <p>
+                An informal consumption survey was conducted by a Filipino medical practitioner, revealed that modern-day Filipino men and women have different purposes for viewing or reading erotic and sexually related materials. Based on the study, female consumers evolves around the "couple context" or relationship context, while male patrons do so in relation to solitary sexual activity. Leyson’s study also found out that there is a continuous rise in preferences among “educated, sophisticated, and professional” men and women who are engaged in an intimate relationship for so-called "clean" or "softcore" versions of sexually-oriented resources.
+            </p>
+            <h2 class="content-subhead">Why we should be against it</h2>
+            <p>
+                Research concerning the effects of pornography is concerned with multiple outcomes. Such research includes potential influences on rape, domestic violence, sexual dysfunction, difficulties with sexual relationships, and child sexual abuse. Viewers of novel and extreme pornographic images may become tolerant to such images, which may impact sexual response.
+            </p>
+            <h2 class="content-subhead">Child Pornography</h2>
+            <p>
+                Federal and state laws make it a crime to produce, possess, distribute, or sell pornographic materials that exploit or portray a minor (under the age of 18). Increasingly, child pornography laws are being utilized to punish use of computer technology and the Internet to obtain, share, and distribute pornographic material involving children, including images and films.
+            </p>
+            <h2 class="content-subhead">Laws against Pornography</h2>
+            <p>
+                <strong>Republic Act No. 9775</strong> - an act defining the crime of child pornography, prescribing penalties, therefor and other purposes. <br>
+                <strong>Anti-Trafficking in Persons Act of 2003</strong> - an act to institute policies to eliminate trafficking in persons especially women and children, establishing the necessary institutional mechanisms for the protection and support aof trafficked persons, providing penalties for its violations
+            </p>
+            <h2 class="content-subhead">What Should I Do if I Discover a Suspected Child Pornography Website?</h2>
+            <p>
+              If you come across a website that you believe is depicting child pornography, the first step is to contact your local law enforcement agency. While many of these crimes involve federal law, local authorities will know where to route the investigation.
+            </p>
+        </div>
+    </div>
+</div>
+
+{% extends "footer.nunjucks" %}
+{% endblock %}
+
