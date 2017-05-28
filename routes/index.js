@@ -6,8 +6,8 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
 
-router.get('/trafficking', function(req, res, next) {
-  res.render('trafficking', { title: 'Sex Trafficking' });
+router.get('/sex_trafficking', function(req, res, next) {
+  res.render('sextrafficking', { title: 'Sex Trafficking' });
 });
 
 module.exports = router;

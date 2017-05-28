@@ -1,9 +1,0 @@
-{% extends "header.nunjucks"%}
-{% block content%}
-
-<div>
-  <p>Test</p>
-</div>
-
-{% extends "footer.nunjucks" %}
-{% endblock %}
