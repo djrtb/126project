@@ -107,7 +107,7 @@ a.pure-button-primary {
 }
 
 .home-menu .pure-menu-heading {
-	font-family: 'Baloo', cursive;
+	font-family: 'Anton', cursive;
     color: black;
     font-weight: 400;
     font-size: 120%;
@@ -136,7 +136,7 @@ a.pure-button-primary {
 
 .splash-container {
 	background-color: #9932CC;
-    background-image: url("hands.png");
+    background-image: url("/images/hands.png");
     background-repeat: no-repeat;
     background-position: center;
     z-index: 1;
@@ -243,7 +243,6 @@ a.pure-button-primary {
 
 }
 
-<<<<<<< HEAD
 div #about{
     padding-right: 5%;
     padding-left: 5%;
@@ -264,8 +263,6 @@ div #events{
     color: black;
 }
 
-=======
->>>>>>> 7874487ff4f449a442fb2dcd70d99e1de61a164f
 /* We want to give the content area some more padding */
 .content {
     padding: 1em 1em 3em;
