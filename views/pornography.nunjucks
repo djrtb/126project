@@ -1,4 +1,4 @@
-{% extends "header.nunjucks"%}
+{% extends "side-menu.nunjucks"%}
 {% block content%}
 
 <div id="layout">
@@ -24,12 +24,29 @@
               <p>Demographically, however, there are very few groups of people who are even willing to acknowledge it as a problem. The institutional church doesn’t want to offend its congregations to this level. Nor do they want to preach what would be deemed as R-rated sermons with children in attendance. Politicians fear ridicule on the level of the “Bill and Monica” scandal, as do many individuals who are offended by it. Too many ladies, Christian and non-Christian, are just too resentful of the people portrayed in these photos to consider their plight. And of course, most men are so enamored by it that they don’t stop to consider the person behind those “big blue eyes”. So what’s to be done? Who is left to do anything at all?</p>
             <div class="pure-g">
                 <div class="pure-u-1-1">
-                    <img class="pure-img-responsive" src="images/pornography2.jpg" alt="Pornography">
+                    <img class="pure-img-responsive" src="images/pornography3.jpg" alt="Pornography">
                 </div>
             </div>
-            <h2 class="content-subhead">Why people choose pornography?</h2>
+            <h2 class="content-subhead">Why is there pornography in the Philippines</h2>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                An informal consumption survey was conducted by a Filipino medical practitioner, revealed that modern-day Filipino men and women have different purposes for viewing or reading erotic and sexually related materials. Based on the study, female consumers evolves around the "couple context" or relationship context, while male patrons do so in relation to solitary sexual activity. Leyson’s study also found out that there is a continuous rise in preferences among “educated, sophisticated, and professional” men and women who are engaged in an intimate relationship for so-called "clean" or "softcore" versions of sexually-oriented resources.
+            </p>
+            <h2 class="content-subhead">Why we should be against it</h2>
+            <p>
+                Research concerning the effects of pornography is concerned with multiple outcomes. Such research includes potential influences on rape, domestic violence, sexual dysfunction, difficulties with sexual relationships, and child sexual abuse. Viewers of novel and extreme pornographic images may become tolerant to such images, which may impact sexual response.
+            </p>
+            <h2 class="content-subhead">Child Pornography</h2>
+            <p>
+                Federal and state laws make it a crime to produce, possess, distribute, or sell pornographic materials that exploit or portray a minor (under the age of 18). Increasingly, child pornography laws are being utilized to punish use of computer technology and the Internet to obtain, share, and distribute pornographic material involving children, including images and films.
+            </p>
+            <h2 class="content-subhead">Laws against Pornography</h2>
+            <p>
+                <strong>Republic Act No. 9775</strong> - an act defining the crime of child pornography, prescribing penalties, therefor and other purposes. <br>
+                <strong>Anti-Trafficking in Persons Act of 2003</strong> - an act to institute policies to eliminate trafficking in persons especially women and children, establishing the necessary institutional mechanisms for the protection and support aof trafficked persons, providing penalties for its violations
+            </p>
+            <h2 class="content-subhead">What Should I Do if I Discover a Suspected Child Pornography Website?</h2>
+            <p>
+              If you come across a website that you believe is depicting child pornography, the first step is to contact your local law enforcement agency. While many of these crimes involve federal law, local authorities will know where to route the investigation.
             </p>
         </div>
     </div>
