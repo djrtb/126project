@@ -1,10 +1,106 @@
-{% extends "header.nunjucks"%}
+{% extends "side-menu.nunjucks"%}
 {% block content%}
 
-<div>
-  <p>THIS IS PRILDAE
-    </p>
-</div>
+    <div id="main">
+        <div class="header">
+            <h1>Sex Trafficking</h1>
+            <h2>A Form of Modern Slavery</h2>
+        </div>
 
-{% extends "footer.nunjucks" %}
+        <img class="pure-img-responsive" align="middle" src="images/traffic3.jpg" style="opacity:0.6;filter:alpha(opacity=40);" alt="Peyto Lake">
+
+
+        <div class="content">
+            <h2 class="content-subhead">What is Sex Trafficking</h2>
+            <p>
+              Sex trafficking, a form of modern slavery, is the exploitation of women
+              and children within national and across international borders, for the purposes of
+              forced sex work.  This occurs when someone uses force, fraud or coercion to
+              intimidate an adult, and even minors, to commit and engage in sexual acts.
+              Commercial sexual exploitation includes pornography, prostitution
+              and sex trafficking of women and girls, and is characterized by the exploitation
+              of a human being in exchange for goods or money.
+            </p>
+
+              <h3>The Sex Industry</h3>
+              <p>
+                Currently, sex trafficking is a booming industry and it thrives because there is
+                a serious demand. (1) BUYER fuels the market with money, (2) TRAFFICKER/PIMP exploits
+                victims to earn revenue from buyers, (3) VICTIM, which includes both girls and boys,
+                are bought and sold for profit. Adult women make up the largest group of sex trafficking
+                victims, followed by girl children, although a small percentage of men and boys are
+                trafficked into the sex industry as well.
+              </p>
+
+              <p>
+                Traffickers find victims through social network, home neighborhood, clubs and bars,
+                internet, and school. They lure the victims with promises of protection, adventure, home,
+                opportunity, and love. They use violence, fear, threats and intimidation tactics to
+                ensure compliance and meet demands.
+              </p>
+
+              <h3>Impact of Sex Trafficking</h3>
+              <p>
+              Trafficking has a harrowing effect on the mental, emotional and physical well being
+              of the women and girls ensnared in its web. Beyond the physical abuse, trafficked
+              women suffer extreme emotional stress, including shame, grief, fear, distrust and
+              suicidal thoughts. Victims often experience post-traumatic stress disorder, and
+              with that, acute anxiety, depression and insomnia. Many victims turn to drugs and
+              alcohol to numb the pain.
+
+              Sex trafficking promotes societal breakdown by removing women and girls from their
+              families and communities. Trafficking fuels organized crime groups that usually
+              participate in many other illegal activities, including drug and weapons trafficking
+              and money laundering. It negatively impacts local and national labor markets, due
+              to the loss of human resources. Sex trafficking burdens public health systems. And
+              trafficking erodes government authority, encourages widespread corruption, and
+              threatens the security of vulnerable populations.
+              </p>
+
+              <p> ------ </p>
+              <h4>"Society may call it prostitution, but federal law call it sex trafficking"</h4>
+
+            <h2 class="content-subhead">Key Statistics</h2>
+
+              <h3> In the global setting... </h3>
+              <ul>
+                <li>Worldwide, almost 20% of all trafficking victims are children. However, in some parts of Africa, children are the majority (up to 100% in parts of West Africa)</li>
+                <li>Human sex trafficking is the fastest-growing business of organized crime and the third-largest criminal enterprise in the world. The majority of sex trafficking is international, with victims taken from such places as South and Southeast Asia, the former Soviet Union, Central and South America, and other less developed areas and moved to more developed ones, including Asia, the Middle East, Western Europe, and North America.</li>
+                <li>Pimps commonly sell girls for $400 an hour or more</li>
+                <li>Human Trafficking in the U.S. is a 9.8 billion dollar industry.</li>
+              </ul>
+
+              <h3> In the Philippines... </h3>
+              <ul>
+                <li>A 1997 report put the number of child victims of prostitution at 75,000 in the Philippines.</li>
+                <li>According to the United Nations Children's Fund (Unicef) estimated 60,000 to 100,000 children in the Philippines were involved in prostitution rings.</li>
+                <li>In 2007, there were estimated to be 375,000 women and girls in the sex trade in the Philippines, mostly between the ages of 15 and 20, though some are as young as 11.</li>
+                <li>In the Philipppines,  300k - 400k of trafficking victims are women, while 60k - 100k are children. 80% are females younger than 18 years old [Transparency International, UN, U.S. State Dept.] </li>
+              </ul>
+
+
+
+            <div class="pure-g">
+
+                <div class="pure-u-1-4">
+                  <img class="pure-img-responsive" src="images/traffic8.jpg">
+                </div>
+                <div class="pure-u-1-4">
+                  <img class="pure-img-responsive" align="middle" src="images/traffic5.jpg">
+                </div>
+                <div class="pure-u-1-4">
+                    <img class="pure-img-responsive" src="images/traffic6.jpg">
+                </div>
+              
+            </div>
+
+            <h2 class="content-subhead">Some Laws in the Philippines against Sex Trafficking</h2>
+            <ul>
+              <li> R.A. 9208, the Anti-Trafficking in Persons Act of 2003, a penal law against human trafficking, sex tourism, sex slavery and child prostitution.</li>
+              <li> Revised Penal Code Article 341 - imposes a penalty to any person who “shall engage in the business or shall profit by prostitution or shall enlist the services of any other person for the purpose of prostitution."</li>
+              <li> Republic Act 7610 - Special Protection of Children Against Child Abuse, Exploitation and Discrimination Act</li>
+            </ul>
+        </div>
+    </div>
+
 {% endblock %}

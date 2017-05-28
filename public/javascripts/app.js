@@ -19,9 +19,9 @@ $(document).ready(function(){
      }
  	})
 
-//For slideshow
-
 });
+
+//for slideshow
 
 $(function(){
     $('.fadein img:gt(0)').hide();
@@ -53,7 +53,6 @@ $(function () {
 });
 
 //For individual pages
-
 (function (window, document) {
 
     var layout   = document.getElementById('layout'),
