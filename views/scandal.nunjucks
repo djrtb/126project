@@ -7,6 +7,8 @@
             <h2>Why are they interesting?</h2>
         </div>
 
+        <img class="pure-img-responsive" align="middle" src="images/scandal.jpg" style="opacity:0.6;filter:alpha(opacity=40);" alt="Peyto Lake">
+
         <div class="content">
             <h2 class="content-subhead">They are interesting because they involve...</h2>
             <div class="pure-g">
