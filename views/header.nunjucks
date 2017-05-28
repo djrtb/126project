@@ -19,10 +19,10 @@
           <li class="pure-menu-item pure-menu-selected">  <a href="#!" class="pure-menu-link">Homepage </a> </li>
         <li class="pure-menu-item" id="dropdown-container"><a href="#!" class="pure-menu-link">Issues &#9662;</a>
         <ul id="dropdown">
-            <li><a href="#!">Sex Trafficking</a></li>
-            <li><a href="#!">Scandal</a></li>
-            <li><a href="#!">Pornography</a></li>
-            <li><a href="#!">VAWC</a></li>
+            <li><a href="/trafficking">Sex Trafficking</a></li>
+            <li><a href="/scandal">Scandal</a></li>
+            <li><a href="/pornography">Pornography</a></li>
+            <li><a href="vawc">VAWC</a></li>
           </ul>
         </li>
         <li class="pure-menu-item"><a href="#!" class="pure-menu-link">Contact Us</a></li>
