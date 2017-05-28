@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-{% extends "side-menu.nunjucks"%}
-=======
 {% extends "header.nunjucks" %}
->>>>>>> 0e871644dd381547c84b2d22f233625a1edd847b
+
 {% block content %}
     <div class="splash-container">
         <div class="splash">
@@ -11,7 +8,7 @@
                 Gender and Development Office of University of the Philippines Cebu
             </p>
             <p>
-                <a href="#!" class="pure-button pure-button-primary">Need Guidance?</a>
+                <a href="#contact" class="pure-button pure-button-primary">Need Guidance?</a>
             </p>
         </div>
     </div>
@@ -46,7 +43,7 @@
             </div>
         </div>
         <div class="content">
-            <h2 class="content-head is-center">Contact Us</h2>
+            <h2 class="content-head is-center" id="contact">Contact Us</h2>
             <div class="pure-g">
                 <div class="l-box-lrg pure-u-1 pure-u-md-2-5">
                     <form class="pure-form pure-form-stacked">

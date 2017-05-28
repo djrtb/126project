@@ -42,7 +42,7 @@
                 <li class="pure-menu-item"><a href="/scandal"  class="pure-menu-link">Scandal</a></li>
                 <li class="pure-menu-item"><a href="/pornography"  class="pure-menu-link">Pornography</a></li>
                 <li class="pure-menu-item"><a href="/vawc" class="pure-menu-link">VAWC</a></li>
-                <li class="pure-menu-item"><a href="/contact" class="pure-menu-link">Contact</a></li>
+                <li class="pure-menu-item"><a href="/#contact" class="pure-menu-link">Contact</a></li>
             </ul>
         </div>
     </div>

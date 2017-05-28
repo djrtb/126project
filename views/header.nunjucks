@@ -25,7 +25,7 @@
             <li><a href="vawc">VAWC</a></li>
           </ul>
         </li>
-        <li class="pure-menu-item"><a href="#!" class="pure-menu-link">Contact Us</a></li>
+        <li class="pure-menu-item"><a href="#contact" class="pure-menu-link">Contact Us</a></li>
       </ul>
     </div>
   </div>
