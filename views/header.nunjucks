@@ -15,17 +15,17 @@
     <div class="header">
       <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
         <a class="pure-menu-heading" href="">GAD</a>
-        <ul class="pure-menu-list">
-          <li class="pure-menu-item pure-menu-selected">  <a href="#" class="pure-menu-link">Homepage </a>
-          <ul>
-            <li><a href="#!">Sex Trafficking and Prostitution</a></li>
+        <ul class="pure-menu-list" id="">
+          <li class="pure-menu-item pure-menu-selected">  <a href="#!" class="pure-menu-link">Homepage </a> </li>
+        <li class="pure-menu-item" id="dropdown-container"><a href="#!" class="pure-menu-link">Issues &#9662;</a>
+        <ul id="dropdown">
+            <li><a href="#!">Sex Trafficking</a></li>
             <li><a href="#!">Scandal</a></li>
             <li><a href="#!">Pornography</a></li>
-            <li><a href="#!">Violence Against Women and Children</a></li>
+            <li><a href="#!">VAWC</a></li>
           </ul>
         </li>
-        <li class="pure-menu-item"><a href="#" class="pure-menu-link">Issues</a></li>
-        <li class="pure-menu-item"><a href="#" class="pure-menu-link">Contact Us</a></li>
+        <li class="pure-menu-item"><a href="#!" class="pure-menu-link">Contact Us</a></li>
       </ul>
     </div>
   </div>
