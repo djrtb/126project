@@ -93,11 +93,8 @@ a.pure-button-primary {
 .home-menu {
     padding: 0.5em;
     text-align: center;
-    box-shadow: 0 1px 1px rgba(0,0,0, 0.10);
 }
 .home-menu {
-    background: #ffe4e1;
-    opacity: 0.9;
 }
 .pure-menu.pure-menu-fixed {
     /* Fixed menus normally have a border at the bottom. */
@@ -107,8 +104,7 @@ a.pure-button-primary {
 }
 
 .home-menu .pure-menu-heading {
-	font-family: 'Anton', cursive;
-    color: black;
+    color: white;
     font-weight: 400;
     font-size: 120%;
 }
@@ -118,8 +114,7 @@ a.pure-button-primary {
 }
 
 .home-menu a {
-    color: #000000;
-    font-family: 'Nunito Sans', sans-serif;
+    color: #6FBEF3;
 }
 .home-menu li a:hover,
 .home-menu li a:focus {
@@ -128,22 +123,20 @@ a.pure-button-primary {
     color: #AECFE5;
 }
 
-
 /*
  * -- SPLASH STYLES --
  * This is the blue top section that appears on the page.
  */
 
 .splash-container {
-	background-color: #9932CC;
-    background-image: url("/images/hands.png");
-    background-repeat: no-repeat;
+    background: #a65ba6;
+    background-image: url('/images/hands.png');
     background-position: center;
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
     width: 100%;
-    height: 100%;
+    height: 88%;
     top: 0;
     left: 0;
     position: fixed !important;
@@ -152,7 +145,7 @@ a.pure-button-primary {
 .splash {
     /* absolute center .splash within .splash-container */
     width: 80%;
-    height: 25%;
+    height: 50%;
     margin: auto;
     position: absolute;
     top: 100px; left: 0; bottom: 0; right: 0;
@@ -179,55 +172,6 @@ a.pure-button-primary {
     opacity: 0.8;
 }
 
-/* Style The Dropdown Button */
-.dropbtn {
-    background-color: #4CAF50;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
-}
-
-/* The container <div> - needed to position the dropdown content */
-#dropdown-container {
-    position: relative;
-    display: inline-block;
-}
-
-/* Dropdown Content (Hidden by Default) */
-#dropdown {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    z-index: 2;
-    padding-left: 0px;
-    list-style: none;
-}
-
-/* Links inside the dropdown */
-#dropdown li a {
-    color: black;
-    padding: 10px 16px;
-    text-decoration: none;
-    display: block;
-}
-
-/* Change color of dropdown links on hover */
-#dropdown a:hover {background-color: #f1f1f1}
-
-/* Show the dropdown menu on hover */
-#dropdown-container:hover #dropdown {
-    display: block;
-}
-
-/* Change the background color of the dropdown button when the dropdown content is shown */
-#dropdown-container:hover #dropdown li {
-    background-color: rgb(255, 228, 225);
-}
-
 /*
  * -- CONTENT STYLES --
  * This represents the content area (everything below the blue section)
@@ -235,7 +179,7 @@ a.pure-button-primary {
 .content-wrapper {
     /* These styles are required for the "scroll-over" effect */
     position: absolute;
-    top: 100%;
+    top: 87%;
     width: 100%;
     min-height: 12%;
     z-index: 2;
@@ -244,8 +188,8 @@ a.pure-button-primary {
 }
 
 div #about{
-    padding-right: 5%;
-    padding-left: 5%;
+    padding-right: 15%;
+    padding-left: 15%;
 }
 
 div #events{
@@ -604,33 +548,3 @@ Hides the menu at `48em`, but modify this based on your app's needs.
         left: 150px;
     }
 }
-/*Start our own css here*/
-#aboutUs-1{
-	text-align: center;
-	padding-right: 20%;
-	padding-left: 20%;
-}
-
-.full-side{
-    margin: 0;
-    padding: 0;
-}
-
-#porn-1{
-    text-align: center;
-    padding-left: 20%;
-    padding-right: 20%;
-    top: -30%;
-    background-color: #dd99ff;
-    width: 100%;
-    
-}
-
-    .carousel-inner > .item > img, .carousel-inner > .item > a > img {
-        display: block;
-        height: 100vh;
-        min-width: 100%;
-        width: 100%;
-        max-width: 100%;
-        line-height: 1;
-    }
