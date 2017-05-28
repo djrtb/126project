@@ -14,6 +14,8 @@ router.get('/trafficking', function(req, res) {
   res.render('trafficking', { title: 'Trafficking' });
 });
 
-
+router.get('/scandal', function(req, res) {
+  res.render('scandal', { title: 'Scandal' });
+});
 
 module.exports = router;

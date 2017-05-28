@@ -1,4 +1,4 @@
-{% extends "header.nunjucks"%}
+{% extends "side-menu.nunjucks"%}
 {% block content %}
     <div class="splash-container">
         <div class="splash">
