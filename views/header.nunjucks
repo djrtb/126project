@@ -16,14 +16,21 @@
       <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
         <a class="pure-menu-heading" href="">GAD</a>
         <ul class="pure-menu-list">
-          <li class="pure-menu-item pure-menu-selected"><a href="#" class="pure-menu-link">Homepage</a></li>
-          <li class="pure-menu-item"><a href="#" class="pure-menu-link">Issues</a></li>
-          <li class="pure-menu-item"><a href="#" class="pure-menu-link">Contact Us</a></li>
-        </ul>
-      </div>
+          <li class="pure-menu-item pure-menu-selected">  <a href="#" class="pure-menu-link">Homepage </a>
+          <ul>
+            <li><a href="#!">Sex Trafficking and Prostitution</a></li>
+            <li><a href="#!">Scandal</a></li>
+            <li><a href="#!">Pornography</a></li>
+            <li><a href="#!">Violence Against Women and Children</a></li>
+          </ul>
+        </li>
+        <li class="pure-menu-item"><a href="#" class="pure-menu-link">Issues</a></li>
+        <li class="pure-menu-item"><a href="#" class="pure-menu-link">Contact Us</a></li>
+      </ul>
     </div>
-    <!-- Start of body below -->
-    <!-- You write code for this content block in another file -->
-    {% block content %} {% endblock %}
-  </body>
+  </div>
+  <!-- Start of body below -->
+  <!-- You write code for this content block in another file -->
+  {% block content %} {% endblock %}
+</body>
 </html>
