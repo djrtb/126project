@@ -30,3 +30,23 @@ $(function(){
          .end().appendTo('.fadein');}, 
       3000);
 });
+
+$(function () {
+    var events = $('#events');
+    var backgrounds = [
+      'url(/images/events.jpg)',
+      'url(/images/climate.jpg)',
+      'url(/images/gender.jpg)',
+      'url(/images/heshe.jpg)',];
+    var current = 0;
+
+    function nextBackground() {
+        events.css(
+            'background-image',
+        backgrounds[current = ++current % backgrounds.length]);
+        events.css('background-position', 'center');
+        setTimeout(nextBackground, 3000);
+    }
+    setTimeout(nextBackground, 5000);
+    events.css('background', backgrounds[0]);
+});

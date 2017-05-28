@@ -25,6 +25,5 @@
     <!-- Start of body below -->
     <!-- You write code for this content block in another file -->
     {% block content %} {% endblock %}
-    
   </body>
 </html>

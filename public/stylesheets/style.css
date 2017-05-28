@@ -193,6 +193,21 @@ div #about{
     padding-left: 15%;
 }
 
+div #events{
+    background-image: url('/images/events.jpg');
+    background-position: center;
+    color: black;
+    height: 225px;
+}
+
+#see-more{
+    float: right;
+}
+
+#event-heading{
+    color: black;
+}
+
 /* We want to give the content area some more padding */
 .content {
     padding: 1em 1em 3em;
