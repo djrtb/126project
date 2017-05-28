@@ -1,0 +1,10 @@
+{% extends "header.nunjucks"%}
+{% block content%}
+
+<div>
+  <p>THIS IS JUMA
+    </p>
+</div>
+
+{% extends "footer.nunjucks" %}
+{% endblock %}
