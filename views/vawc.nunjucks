@@ -3,42 +3,82 @@
 
     <div id="main">
         <div class="header">
-            <h1>Page Title</h1>
-            <h2>A subtitle for your page goes here</h2>
+            <h1  style="color:#fa8072">Violence Against Women and Children</h1>
+            <h2>The society's secret epidemic.</h2>
         </div>
 
         <div class="content">
-            <h2 class="content-subhead">How to use this layout</h2>
+            <h2 class="content-subhead" style="color:#fa8072"><strong>Key Facts</strong></h2>
             <p>
-                To use this layout, you can just copy paste the HTML, along with the CSS in <a href="/css/layouts/side-menu.css" alt="Side Menu CSS">side-menu.css</a>, and the JavaScript in <a href="/js/ui.js">ui.js</a>. The JS file uses vanilla JavaScript to simply toggle an <code>active</code> class that makes the menu responsive.
-            </p>
+              Violence against women is a gender-biased violence which encompass verbal abuse, intimidation, physical harassment, homicide, sexual assault, and rape.
+              Moreover, it is a manifestation of the historically unequal power relations between men and women."
+              It is likewise "one of the crucial social mechanisms by which women are forced into a subordinate position compared with men.
+              <br>
+              <br>
+              Violence against children is physical, sexual, or psychological mistreatment or neglect of a child or children, especially by a parent or other caregiver.
 
-            <h2 class="content-subhead">Now Let's Speak Some Latin</h2>
-            <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </p>
+
+            <h2 class="content-subhead" style="color:#fa8072"><strong>Statistics</strong></h2>
 
             <div class="pure-g">
                 <div class="pure-u-1-4">
-                    <img class="pure-img-responsive" src="http://farm3.staticflickr.com/2875/9069037713_1752f5daeb.jpg" alt="Peyto Lake">
+                    <img class="pure-img-responsive"  height="42" src="https://userscontent2.emaze.com/images/dafd3fbf-f954-4021-98dd-40e240ecb512/614b6b5a9df1a8e5c514499995728df3.png" alt="Battered Child">
                 </div>
                 <div class="pure-u-1-4">
-                    <img class="pure-img-responsive" src="http://farm3.staticflickr.com/2813/9069585985_80da8db54f.jpg" alt="Train">
+                    <img class="pure-img-responsive"  height="42" src="http://static.wixstatic.com/media/04c316_ecec0aa88aa247269b17fb8f67feed05~mv2.jpg_srz_1903_1269_85_22_0.50_1.20_0.00_jpg_srz" alt="Train">
                 </div>
                 <div class="pure-u-1-4">
-                    <img class="pure-img-responsive" src="http://farm6.staticflickr.com/5456/9121446012_c1640e42d0.jpg" alt="T-Shirt Store">
+                    <img class="pure-img-responsive"  height="42" src="http://www.aljazeera.com/mritems/Images/2016/5/28/1a8dfa0fc1f3473c8d0a86eb7779d281_8.jpg" alt="T-Shirt Store">
                 </div>
                 <div class="pure-u-1-4">
-                    <img class="pure-img-responsive" src="http://farm8.staticflickr.com/7357/9086701425_fda3024927.jpg" alt="Mountain">
+                    <img class="pure-img-responsive"  height="42" src="http://hawthornedvrt.org/wp-content/uploads/2013/04/fotolia_4607732.jpg" alt="Mountain">
                 </div>
             </div>
+            <br><br>
+            Children are suffering from a hidden epidemic of child abuse and neglect. It’s a widespread war against our children that we have the power to stop, and understanding the issue is the first step.
+            Global estimates published by WHO indicate that about 1 in 3 (35%) women worldwide have experienced either physical and/or sexual intimate partner violence or non-partner sexual violence in their lifetime.
+            These imply that women and children needs to be protected for they are prone to abuse.
+            <br> <br>
+              <img class="pure-img-responsive" src="images/woman_stat.jpg" alt="Violence Against Women">
+            <br><br>
+            Every year more than 3.6 million referrals are made to child protection agencies involving more than 6.6 million children (a referral can include multiple children).
+            The United States has one of the worst records among industrialized nations – losing on average between four and seven children every day to child abuse and neglect.
+            <br><br>
+                <img class="pure-img-responsive" src="images/child_stat.jpg" alt="Violence Against Children">
 
-            <h2 class="content-subhead">Try Resizing your Browser</h2>
+            <h2 class="content-subhead"style="color:#fa8072"><strong>How to stop it?</strong></h2>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            We can all take steps to stop violence against women and children. If you or a loved one is trying to leave an abusive relationship, it's important to remember the person who is hurting you or your loved one is the person who needs to change. However, your abuser may be unable or unwilling change.
+            The only way to permanently stop this phenomenon is for everyone to no longer try to control and abuse those they love. This goal will take educating our kids to respect their romantic partners by demonstrating respectful, healthy relationships with our spouses, partners, and our children.
+            <br><br>
+
+            But if everything else fails, we can report it and fight against it headfirst using the laws that protects women and children. 
             </p>
+
+            <h2 class="content-subhead"style="color:#fa8072"><strong>Law that protects Women and Children in the Philippines</strong></h2>
+            <p>
+              Anti – Violence Against Women and Their Children Act of 2004 or otherwise known as VAWC, is a law passed in the Philippines for the protection of women and children from violence. This law establishes the parameters and guidelines, in keeping with the fundamental freedoms guaranteed under the Constitution and the Provisions of the Universal Declaration of Human Rights, the convention on the Elimination of all forms of Discrimination Against Women, Convention on the Rights of the Child and other international human rights instruments of which the Philippines is a party. (Section 2 of R.A. 9262)
+            </p>
+
+            <h2 class="content-subhead"style="color:#fa8072"><strong>Actions covered by R.A 9262</strong></h2>
+            <br><br>
+                <img class="pure-img-responsive" src="images/vawc-actions.jpg" alt="Violence Against Children">
+            <p>
+            <strong>Sexual  Violence: </strong>  <br><br>● Rape, sexual harassment, acts of lasciviousness <br><br> ● Acts causing or attempting to cause the victim to engage in any sexual activity by force, threat of  force, physical or other harm or threat of physical or other harm or coercion.<br><br> ● Prostituting the woman or child.
+            <br><br><br><br>
+            <strong>Psychological  Violence: </strong>
+            <br><br>● Stalking or following the woman or her child in public or private places <br><br> ● Peering in the window or lingering outside the residence of the woman or her child; <br><br> ● Entering or remaining in the dwelling or on the property of the woman or her child against her/his will; <br><br> ● Destroying the property and personal belongings or inflicting harm to animals or pets of the woman or her child; <br><br> ● Causing mental or emotional anguish, public ridicule or humiliation to the woman or her child
+
+            <br><br><br><br>
+            <strong>Economical  Violence: </strong>
+            <br><br>● Withdrawal of financial support or preventing the victim from engaging in any legitimate profession, occupation, business or activity  <br><br> ● Deprivation or threat of deprivation of financial resources and the right to the use and enjoyment of the conjugal, community or property owned in common; <br><br>  ● Destroying household property;  <br><br> ● Controlling the victim’s own money or properties or solely controlling the conjugal money or properties.
+
+
+            </p>
+
         </div>
     </div>
+
 </div>
 
 {% endblock %}
