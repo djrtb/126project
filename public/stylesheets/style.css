@@ -107,7 +107,7 @@ a.pure-button-primary {
 }
 
 .home-menu .pure-menu-heading {
-	font-family: 'Baloo', cursive;
+	font-family: 'Anton', cursive;
     color: black;
     font-weight: 400;
     font-size: 120%;
@@ -135,7 +135,7 @@ a.pure-button-primary {
 
 .splash-container {
 	background-color: #9932CC;
-    background-image: url("hands.png");
+    background-image: url("/images/hands.png");
     background-repeat: no-repeat;
     background-position: center;
     z-index: 1;
@@ -178,6 +178,55 @@ a.pure-button-primary {
     opacity: 0.8;
 }
 
+/* Style The Dropdown Button */
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+#dropdown-container {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+#dropdown {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 2;
+    padding-left: 0px;
+    list-style: none;
+}
+
+/* Links inside the dropdown */
+#dropdown li a {
+    color: black;
+    padding: 10px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+#dropdown a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+#dropdown-container:hover #dropdown {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+#dropdown-container:hover #dropdown li {
+    background-color: rgb(255, 228, 225);
+}
+
 /*
  * -- CONTENT STYLES --
  * This represents the content area (everything below the blue section)
@@ -191,6 +240,26 @@ a.pure-button-primary {
     z-index: 2;
     background: white;
 
+}
+
+div #about{
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+div #events{
+    background-image: url('/images/events.jpg');
+    background-position: center;
+    color: black;
+    height: 225px;
+}
+
+#see-more{
+    float: right;
+}
+
+#event-heading{
+    color: black;
 }
 
 /* We want to give the content area some more padding */

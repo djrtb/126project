@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 {% extends "side-menu.nunjucks"%}
+=======
+{% extends "header.nunjucks" %}
+>>>>>>> 0e871644dd381547c84b2d22f233625a1edd847b
 {% block content %}
     <div class="splash-container">
         <div class="splash">
